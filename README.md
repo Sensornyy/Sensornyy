@@ -5,3 +5,15 @@
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&width=1050&lines=Flutter+Developer;Computer+Science+Student;Looking+for+a+job;telegram+-+@sensornyy)](https://git.io/typing-svg)
+
+<p align="center"
+   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sensornyy&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=000000&sideLabels=6E4E73&stroke=6E4E73&ring=89618F&fire=DD2727&dates=DD2727&sideNums=000000&currStreakLabel=000000)](https://git.io/streak-stats) 
+
+<p align="center"
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sensornyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
