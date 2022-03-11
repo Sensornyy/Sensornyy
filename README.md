@@ -4,4 +4,4 @@
  </h3>
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&width=1050&lines=Flutter+Developer;Computer+Science+Student;Looking+for+a+job)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&width=1050&lines=Flutter+Developer;Computer+Science+Student;Looking+for+a+job;telegram+-+@sensornyy)](https://git.io/typing-svg)
